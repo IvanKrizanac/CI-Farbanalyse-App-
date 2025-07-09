@@ -1,0 +1,5 @@
+fastapi
+playwright
+openai
+bs4
+uvicorn
