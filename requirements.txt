@@ -1,5 +1,6 @@
 fastapi
-playwright
-openai
-bs4
 uvicorn
+playwright
+bs4
+openai
+pydantic
